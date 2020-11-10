@@ -1,1 +1,32 @@
+# Curriculum Vitae
 
+José Jorge Rodríguez Salgado
+
+Email: [josejorgexl@gmail.com](mailto:josejorgexl@gmail.com)
+Url: [jj.hashnode.dev](https://jj.hashnode.dev)
+
+## Profile
+
+Graduate Teaching Assistant in the Faculty of Mathematics and Computer Science in the University of Havana, Cuba. Teaching Probabilities and Statistics in the same faculty.
+
+ALso an experienced software developer and academic researcher in the field of Combinatorial Optimization and Machine Learning.
+
+## Education
+
+Bachelor in Computer Science, University of Havana, Cuba
+
+## Experience
+
+* Teaching Probabilities and Statistics since 2019
+* Academic works using Statistical Methods, Simulations and Machine Learning
+* Analyst and Developer for private firms based in Cuba ([Cubatravelsclub](https://cubatravelsclub.com/en)) and Miami ([Transtur](https://www.transtur.com/))
+* Started to share my knowledge and experiences with the community. Articles featured for FreeCodeCamp ([1](https://www.freecodecamp.org/news/how-naive-bayes-classifiers-work/),
+[2](https://www.freecodecamp.org/news/build-an-e2e-test-framework-with-design-patterns/)). See my URL for more articles
+
+## Skills
+
+* Python (for Data Science) and R: Advanced
+* Statistics, Probailities and Artificial Intelligence: Advanced
+* Software Architecture and Programming Languages: Advanced
+* Cloud Services: Medium (some experience deploying serverless applications)
+* English: Medium
