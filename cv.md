@@ -9,7 +9,7 @@ Url: [jj.hashnode.dev](https://jj.hashnode.dev)
 
 Graduate Teaching Assistant in the Faculty of Mathematics and Computer Science in the University of Havana, Cuba. Teaching Probabilities and Statistics in the same faculty.
 
-ALso an experienced software developer and academic researcher in the field of Combinatorial Optimization and Machine Learning.
+Also an experienced software developer and academic researcher in the field of Combinatorial Optimization and Machine Learning.
 
 ## Education
 
@@ -22,6 +22,7 @@ Bachelor in Computer Science, University of Havana, Cuba
 * Analyst and Developer for private firms based in Cuba ([Cubatravelsclub](https://cubatravelsclub.com/en)) and Miami ([Transtur](https://www.transtur.com/))
 * Started to share my knowledge and experiences with the community. Articles featured for FreeCodeCamp ([1](https://www.freecodecamp.org/news/how-naive-bayes-classifiers-work/),
 [2](https://www.freecodecamp.org/news/build-an-e2e-test-framework-with-design-patterns/)). See my URL for more articles
+* Two times Caribbean Finalist of ICPC
 
 ## Skills
 
